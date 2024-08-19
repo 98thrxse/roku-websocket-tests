@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="Page" extends="Group">
+  <interface>
+    <function name="add" />
+    <function name="update" />
+  </interface>
+
+  <script type="text/brightscript" uri="pkg:/components/base/page/Page.brs" />
+</component>
