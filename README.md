@@ -1,7 +1,7 @@
 # Test 1: Using BWS
 
 ### Source: (https://github.com/SuitestAutomation/BrightWebSocket)
-### Important
+### Important:
 Run a local echo websocket server from the server folder to test
 
 ### Notes:
@@ -10,7 +10,7 @@ Run a local echo websocket server from the server folder to test
 
 
 # Test 2: Using TCP bridge
-### Important
+### Important:
 Run a local tcp server from the bridge folder to test
 
 ### How it works?
